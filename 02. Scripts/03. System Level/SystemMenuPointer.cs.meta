@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b6138e698ebbc584aa399be3cdc48391
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalMain: {fileID: 21300000, guid: 592600dbaaaedfd4eb6fd919e8ab058d, type: 3}
+  - overMain: {fileID: 21300000, guid: 8b832b91b71e9c044b3439fe3003df9a, type: 3}
+  - imageMain: {instanceID: 0}
+  - text: {instanceID: 0}
+  - normalChart: {fileID: 21300000, guid: bfeb1a4aece674b4aad15c10511bec35, type: 3}
+  - overChart: {fileID: 21300000, guid: 3fad392b8105dd946ae9b72649d37970, type: 3}
+  - selectChart: {fileID: 21300000, guid: bc79739a0ce6ac84099cd3a893280fba, type: 3}
+  - imageChart: {instanceID: 0}
+  - normalSub: {fileID: 21300000, guid: d68bcc3d1cfa98648a1eab84f2b04ab9, type: 3}
+  - overSub: {fileID: 21300000, guid: 7635246322932624ba02d156a00e9168, type: 3}
+  - imageSub: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

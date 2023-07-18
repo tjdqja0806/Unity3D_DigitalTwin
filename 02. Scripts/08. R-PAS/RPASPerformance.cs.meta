@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 21f60fa503981be418315188e7bffcaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalMat: {fileID: 2100000, guid: bad819449ba020c409aa352efd608c66, type: 2}
+  - increaseMat: {fileID: 2100000, guid: 84dd4ecdbde2dee4ea7a3d3794b76df9, type: 2}
+  - decreaseMat: {fileID: 2100000, guid: 069e5426ef8602945bf6154fcf6374c6, type: 2}
+  - meshRenderer: {instanceID: 0}
+  - normalImg: {fileID: 21300000, guid: 692bc709f8d3a304d8070cd55a8b9841, type: 3}
+  - increaseImg: {fileID: 21300000, guid: 734c371685e9d8b4697267e2e32e6b21, type: 3}
+  - decreaseImg: {fileID: 21300000, guid: ffbad71c5dc67fe4e812faab45fff055, type: 3}
+  - background: {instanceID: 0}
+  - data1: {instanceID: 0}
+  - data2: {instanceID: 0}
+  - data3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

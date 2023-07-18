@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45147342cd504c24e96e916cd37bc68a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fileAPD: {fileID: 4900000, guid: 350ca8c0da91349418f4a5a1c485aa07, type: 3}
+  - filePHI: {fileID: 4900000, guid: 3fe0a16dafa319346aafd8c808fc3913, type: 3}
+  - fileRPAS: {fileID: 4900000, guid: 4439650506c9928458afd5e90d078b2c, type: 3}
+  - fileCore: {fileID: 4900000, guid: f76ae75cd59f4134b90b8a0105fb7bf0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

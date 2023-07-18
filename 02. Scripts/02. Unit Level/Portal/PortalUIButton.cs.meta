@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8201b4b431be864bb0d82a2b16133a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorButton: {instanceID: 0}
+  - mouseOver: {fileID: 21300000, guid: 65ed24dcbb4f3b34d97bd6e521368bb4, type: 3}
+  - origin: {fileID: 21300000, guid: c5ef11777b080064381051e83f1c2831, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
